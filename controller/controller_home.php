@@ -4,4 +4,10 @@
 		return rand(0, 4);
 	}
 		echo $wordArray[randomWord()];
+
+	if 
+		function length () {
+			return strlen(); 
+		}
+			
 ?>

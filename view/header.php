@@ -5,7 +5,7 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="content">
-					<h1><a href="#"><?php echo $wordArray; ?></a></h1>
+					<h1><a href="#"><?php echo $wordArray[randomWord()]; ?></a></h1>
 					<p>Interview Of a Web Developer<br />
 					 <a href=""></a></p>
 					<ul class="actions">
