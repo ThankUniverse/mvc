@@ -5,9 +5,9 @@
 	}
 		echo $wordArray[randomWord()];
 
-	if 
-		function length () {
-			return strlen(); 
-		}
+	//if 
+	//	function length () {
+	//		return strlen(); 
+	//	}
 			
 ?>
